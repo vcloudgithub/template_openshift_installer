@@ -1,5 +1,5 @@
 {
-    "name": "Red Hat Openshift Container Platform Cluster on Amazon Web Services",
+    "name": "Deploy fantastic Red Hat Openshift Container Platform Cluster on Amazon Web Services",
     "description": "This template will deploy Red Hat Openshift Container Platform in a high availability configuration",
     "version": "1.0",
     "imageUrl": "",
